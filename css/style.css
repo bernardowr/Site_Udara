@@ -103,6 +103,14 @@ h3 {
 b, strong {
   font-weight: 700;
 }
+
+.img-logo {
+  width: 50%;
+  max-width: 50%;
+  padding: 0;
+  margin: 0;
+}
+
 .alert {
   display: none;
   position: fixed;
@@ -113,12 +121,6 @@ b, strong {
   max-width: 970px;
   z-index: 2000;
 }
-.img-logo {
-  width: 50%;
-  max-width: 50%;
-  padding: 0;
-  margin: 0;
-  }
 
 .alert-dismissable .close, .alert-dismissible .close {
   top: 0;
