@@ -111,6 +111,13 @@ b, strong {
   margin: 0;
 }
 
+.logo-cliente {
+width: 230px;
+height: 80px;
+padding: 0;
+margin: 0;
+}
+
 .alert {
   display: none;
   position: fixed;
