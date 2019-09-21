@@ -104,6 +104,24 @@ b, strong {
   font-weight: 700;
 }
 
+#diferenciais {
+color: #650065;
+}
+
+#planos {
+  color: #650065;
+  }
+
+  .nome-empresa {
+    color: #650065;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+  }
+.nome-empresa:hover {
+  color: #a111a1;
+}
+    
 .img-logo {
   width: 50%;
   max-width: 50%;
@@ -117,6 +135,11 @@ display: inline-block;
 font-weight: 700;
 margin-right: 0.5rem;
 color:#a111a1;
+}
+
+.differentials-icons{
+width: 4em;
+height: 4em;  
 }
 
 .alert {
