@@ -6,19 +6,19 @@ if (!empty($_POST))
 		/* SETTINGS */
 
 		// email "subject"
-		$title = 'New message from my Landing page';
+		$title = 'Contato realizado por meio do site udara.com.br';
 		// email field "From" - name of sender (e.g. your first & last name)
-		$from_name = "John Jonson";
+		$from_name = "Udara";
 		// email field "From" - email of sender (e.g. "robot@domain.com")
-		$from_email = "robot@domain.com";
+		$from_email = "contato@udara.com.br";
 		// Email to receive message - PUT YOUR EMAIL HERE
-		$to = "my@email.com";
+		$to = "contato@udara.com.br";
 		// MailChimp integration: Your API key 
 		//(leave string empty if you don't want to use MailChimp integration or get your API key there: https://mailchimp.com/help/about-api-keys/)
-		$MailChimpAPIkey = '';
+		$MailChimpAPIkey = 'f8c4010407a0296a097af908abb90336-us20';
 		// MailChimp integration: ID of list where your subscribers will be added to
 		//(leave string empty if you don't want to use MailChimp integration or get ID of list there: https://us3.admin.mailchimp.com/lists/)
-		$MailChimpListID = '';
+		$MailChimpListID = '297d39fa5f';
 		
 		/* END OF SETTINGS */
 		

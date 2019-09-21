@@ -111,6 +111,14 @@ b, strong {
   margin: 0;
 }
 
+.check-icon {
+transform: scaleX(-0.9) rotate(-40deg);
+display: inline-block;
+font-weight: 700;
+margin-right: 0.5rem;
+color:#a111a1;
+}
+
 .alert {
   display: none;
   position: fixed;
