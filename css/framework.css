@@ -633,7 +633,6 @@ input[type=radio] + label:before {
 }
 .logo.color-white {
   color: #fff;
-  padding-left: 0.2em;
 }
 /* Navigation Mobile */
 .navigation_mobile {
